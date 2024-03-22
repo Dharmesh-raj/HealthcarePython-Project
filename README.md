@@ -1,5 +1,4 @@
 # Healthcare Data Analysis Project
-In Python's Jupyter Notebook, I analyzed healthcare data, which involved cleaning, exploring trends, predicting outcomes, and communicating insights through visualization.
 
 # Introduction:
 This project aims to analyze healthcare data using Python in a Jupyter Notebook environment. The dataset contains various health-related variables, including medical conditions, test results, and demographic information.
