@@ -4,7 +4,7 @@
 This project aims to analyze healthcare data using Python in a Jupyter Notebook environment. The dataset contains various health-related variables, including medical conditions, test results, and demographic information.
 
 # Objective:
-The primary objective of this project is to derive meaningful insights from the healthcare dataset through data analysis techniques. By exploring patterns, correlations, and trends within the data, we aim to identify factors influencing health outcomes and predict potential risks.
+The primary objective of this project is to derive meaningful insights from the healthcare dataset through data analysis techniques. By exploring patterns, correlations, and trends within the data, I aimed to identify factors influencing health outcomes and predict potential risks.
 
 # Tools and Packages:
 + Python: Utilized for data analysis, preprocessing, and modeling.
@@ -21,7 +21,7 @@ The primary objective of this project is to derive meaningful insights from the 
 + Documentation and Visualization: Documented the analysis process and findings, supported by clear visualizations for effective communication.
 
 # Conclusion:
-Through this project, I gained valuable insights into healthcare dynamics, identifying factors influencing health outcomes and predicting potential risks. The analysis provides a foundation for informed decision-making and further research in healthcare data analytics.
+Through this project, I have gained valuable insights into healthcare dynamics, identifying factors influencing health outcomes and predicting potential risks. The analysis provides a foundation for informed decision-making and further research in healthcare data analytics.
 
 
   
