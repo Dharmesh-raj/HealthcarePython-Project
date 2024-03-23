@@ -13,7 +13,6 @@ The primary objective of this project is to derive meaningful insights from the 
 + NumPy: Employed for numerical computations and operations.
 + Matplotlib and Seaborn: Utilized for data visualization and generating insightful plots.
 + Scikit-learn: Employed for predictive modeling and machine learning tasks.
-+ Seaborn: Integrated for statistical data visualization and generating insightful plots.
 
 # Key Steps:
 + Data Cleaning and Preprocessing: Ensured data integrity by handling missing values, removing duplicates, and standardizing formats.
